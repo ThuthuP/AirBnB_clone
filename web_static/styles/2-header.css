@@ -1,5 +1,17 @@
+<<<<<<< HEAD
 header {
     background-color: red;
     height: 70px;
     width: 100%;
+=======
+/*
+ * === Header style ===
+ */
+
+/* Header style */
+header {
+  background-color: #f00;
+  height: 70px;
+  width: 100%;
+>>>>>>> 1b6e3a7c2cbf6802948581552c021e08d91407a5
 }
